@@ -1,0 +1,5 @@
+C:\Users\shrad\Documents\job\Cross_key\Cross_Loan\bin\publish\cross_Loan.exe
+C:\Users\shrad\Documents\job\Cross_key\Cross_Loan\bin\publish\cross_Loan.dll
+C:\Users\shrad\Documents\job\Cross_key\Cross_Loan\bin\publish\cross_Loan.deps.json
+C:\Users\shrad\Documents\job\Cross_key\Cross_Loan\bin\publish\cross_Loan.runtimeconfig.json
+C:\Users\shrad\Documents\job\Cross_key\Cross_Loan\bin\publish\cross_Loan.pdb
